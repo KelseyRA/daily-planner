@@ -3,6 +3,7 @@ body {
   font-size: 16px;
 }
 
+/* Hour block styling */
 textarea {
   background: transparent;
   border: none;
@@ -46,6 +47,7 @@ textarea {
   color: white;
 }
 
+/* Save button styles */
 .saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
